@@ -1,4 +1,4 @@
-#### This is an anonymized version of the repository for FAST24 Submission titled "DNA Storage Toolkit: A Modular End-to-End DNA Data Storage Codec and Simulator."
+#### This is an anonymized version of the repository for ISPASS24 Submission titled "DNA Storage Toolkit: A Modular End-to-End DNA Data Storage Codec and Simulator."
 
 
 ## DNA Storage Toolkit: A Modular End-to-End DNA Data Storage Codec and Simulator
